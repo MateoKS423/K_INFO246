@@ -4,7 +4,7 @@
     <title>Prototype: Flickr API - Display Photos (JSON)</title>
   </head>
   <body>
-    <h1>Search/Filter the Flickr API - haz</h1>
+    <h1>Search/Filter the Flickr API - for my 246 class</h1>
     <div id="feed"></div>
     <script type="text/javascript">
     //run function to parse json response, grab title, link, and media values - place in html tags
