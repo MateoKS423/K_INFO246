@@ -21,6 +21,6 @@ This is for my info 246 class. helloo
       }
      </script>
      <!-- use script tag to make request to flickr api, specify json format and tag to search -->
-     <script type="text/javascript" src="https://api.flickr.com/services/feeds/photos_public.gne?tags=dogs14&format=json"></script>
+     <script type="text/javascript" src="https://api.flickr.com/services/feeds/photos_public.gne?tags=dogs&format=json"></script>
   </body>
 </html>
