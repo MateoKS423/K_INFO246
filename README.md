@@ -1,5 +1,6 @@
 # K_INFO246
 This is for my info 246 class. hellooooo
+
 <!DOCTYPE html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
